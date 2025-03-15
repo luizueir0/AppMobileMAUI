@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CadastroAlunos.MainPage">
+
+	<ScrollView>
+        <VerticalStackLayout 
+			Padding="30" 
+			Spacing="10"
+            WidthRequest="350">
+
+
+            <Label 
+				x:Name="lblRA" 
+				Text="Registro acadêmico"/>
+
+            <Entry 
+				x:Name="etrRA"/>
+
+            <Label 
+				x:Name="lblNome" 
+				Text="Nome Completo"/>
+			
+			<Entry 
+				x:Name="etrNome"/>
+
+			<Label 
+				x:Name="lblDataNascimento" 
+				Text="Data de Nascimento"/>
+			
+			<Entry 
+				x:Name="etrDataNascimento"/>
+
+			<Label 
+				x:Name="lblGenero" 
+				Text="Genero"/>
+			
+			<Picker 
+				x:Name="pickGenero">
+				
+				<Picker.ItemsSource>
+					<x:Array Type="{x:Type x:String}">
+						<x:String>Feminino</x:String>
+						<x:String>Masculino</x:String>
+						<x:String>Não binário</x:String>
+						<x:String>Prefiro não dizer</x:String>
+					</x:Array>
+				</Picker.ItemsSource>
+				
+			</Picker>
+
+			<Label 
+				x:Name="lblEmail" 
+				Text="Email"/>
+			
+			<Entry 
+				x:Name="etrEmail"/>
+
+			<Label 
+				x:Name="lblCpf" 
+				Text="CPF"/>
+			
+			<Entry 
+				x:Name="etrCpf"/>
+
+			<Label 
+				x:Name="lblRg" 
+				Text="RG"/>
+			
+			<Entry 
+				x:Name="etrRg"/>
+
+			<Label 
+				x:Name="lblAuxilioTransporte" 
+				Text="Auxílio Transporte?"/>
+
+			<Grid 
+			   RowDefinitions="Auto,Auto"
+               ColumnDefinitions="Auto,*">
+				
+				<CheckBox 
+					Grid.Row="0" 
+					Grid.Column="0"
+					x:Name="chbxAuxioTransporte"/>
+				
+				<Label 
+					Grid.Row="0" 
+					Grid.Column="0" 
+					x:Name="lblSim" 
+					Text="Sim" 
+					TranslationX="35" 
+					TranslationY="12"/>
+				
+			</Grid>
+
+			<Button 
+				x:Name="btnCadastrar" 
+				Text="Cadastrar"/>
+			
+			<Button 
+				x:Name="btnLimpar" 
+				Text="Limpar"/>
+
+		</VerticalStackLayout>
+	</ScrollView>
+
+</ContentPage>

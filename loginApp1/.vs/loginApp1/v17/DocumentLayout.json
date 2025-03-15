@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|c:\\users\\dudis\\source\\repos\\loginapp1\\loginapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|solutionrelative:loginapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|c:\\users\\dudis\\source\\repos\\loginapp1\\loginapp1\\loginapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|solutionrelative:loginapp1\\loginapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|c:\\users\\dudis\\source\\repos\\loginapp1\\loginapp1\\resources\\appicon\\icon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|solutionrelative:loginapp1\\resources\\appicon\\icon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|c:\\users\\dudis\\source\\repos\\loginapp1\\loginapp1\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|solutionrelative:loginapp1\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|c:\\users\\dudis\\source\\repos\\loginapp1\\loginapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|solutionrelative:loginapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|c:\\users\\dudis\\source\\repos\\loginapp1\\loginapp1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|solutionrelative:loginapp1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|c:\\users\\dudis\\source\\repos\\loginapp1\\loginapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1768F547-B9AE-4AD6-8FAE-D214BC11947E}|loginApp1\\loginApp1.csproj|solutionrelative:loginapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\App.xaml",
+              "RelativeDocumentMoniker": "loginApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\App.xaml",
+              "RelativeToolTip": "loginApp1\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T13:29:18.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\AppShell.xaml",
+              "RelativeDocumentMoniker": "loginApp1\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\AppShell.xaml",
+              "RelativeToolTip": "loginApp1\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T19:41:46.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "loginApp1\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\MainPage.xaml.cs",
+              "RelativeToolTip": "loginApp1\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:00:40.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "loginApp1\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\MainPage.xaml",
+              "RelativeToolTip": "loginApp1\\MainPage.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T16:37:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "icon.svg",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\Resources\\AppIcon\\icon.svg",
+              "RelativeDocumentMoniker": "loginApp1\\Resources\\AppIcon\\icon.svg",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\Resources\\AppIcon\\icon.svg",
+              "RelativeToolTip": "loginApp1\\Resources\\AppIcon\\icon.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-03T16:57:58.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appiconfg.svg",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeDocumentMoniker": "loginApp1\\Resources\\AppIcon\\appiconfg.svg",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeToolTip": "loginApp1\\Resources\\AppIcon\\appiconfg.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-03T16:51:39.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loginApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\loginApp1.csproj",
+              "RelativeDocumentMoniker": "loginApp1\\loginApp1.csproj",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\loginApp1\\loginApp1\\loginApp1.csproj",
+              "RelativeToolTip": "loginApp1\\loginApp1.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T16:40:45.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

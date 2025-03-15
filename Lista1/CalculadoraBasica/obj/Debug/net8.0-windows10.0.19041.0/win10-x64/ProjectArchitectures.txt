@@ -1,0 +1,1 @@
+C:\Users\Dudis\source\repos\AppMobile\Lista1\CalculadoraBasica\CalculadoraBasica.csproj;x64

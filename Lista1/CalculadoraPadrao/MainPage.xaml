@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculadoraPadrao.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25"
+            WidthRequest="350">
+
+			<Grid 
+				Padding="10" 
+				RowSpacing="10" 
+				ColumnSpacing="10">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="70"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Entry 
+					x:Name="etrField" 
+					Grid.Row="1" 
+					Grid.ColumnSpan="4" 
+					BackgroundColor="#d9d9d9"
+                    TextColor="Black"/>
+
+				<!-- Linha 1 -->
+				
+				<Button 
+					Grid.Row="2"
+					Grid.Column="0"
+					x:Name="btnPortentagem" 
+					BackgroundColor="#b3b3b3"
+					Text="%"/>
+				
+				<Button 
+					Grid.Row="2"
+					Grid.Column="1"
+					x:Name="btnCE" 
+					BackgroundColor="#b3b3b3"
+					Text="CE"/>
+				
+				<Button 
+					Grid.Row="2"
+					Grid.Column="2"
+					x:Name="btnC"
+					BackgroundColor="#b3b3b3"
+					Text="C"/>
+				
+				<Button 
+					Grid.Row="2"
+					Grid.Column="3"
+					x:Name="btnDel" 
+					BackgroundColor="#b3b3b3"
+					Text="‹‹‹"/>
+
+				<!-- Linha 2 -->
+
+				<Button 
+					Grid.Row="3"
+					Grid.Column="0"
+					x:Name="btn1_X"
+					BackgroundColor="#b3b3b3"
+					Text="1/X"/>
+
+				<Button
+					Grid.Row="3"
+					Grid.Column="1"
+					x:Name="btnXaoQuadrado"
+					BackgroundColor="#b3b3b3"
+					Text="X²"/>
+				
+				<Button 
+					Grid.Row="3"
+					Grid.Column="2"
+					x:Name="btnRaizQuadrada" 
+					BackgroundColor="#b3b3b3"
+					Text="²√"/>
+
+				<Button
+					Grid.Row="3"
+					Grid.Column="3"
+					x:Name="btnDivisor"
+					BackgroundColor="#b3b3b3"
+					Text="/"/>
+
+				<!-- Linha 3 -->
+
+				<Button 
+					Grid.Row="4"
+					Grid.Column="0"
+					x:Name="btnSete" 
+					BackgroundColor="#b3b3b3"
+					Text="7"/>
+				
+				<Button 
+					Grid.Row="4"
+					Grid.Column="1"
+					x:Name="btnOito" 
+					BackgroundColor="#b3b3b3"
+					Text="8"/>
+				
+				<Button 
+					Grid.Row="4"
+					Grid.Column="2"
+					x:Name="btnNove"
+					BackgroundColor="#b3b3b3"
+					Text="9"/>
+				
+				<Button 
+					Grid.Row="4"
+					Grid.Column="3"
+					x:Name="btnMult" 
+					BackgroundColor="#b3b3b3"
+					Text="X"/>
+
+				<!-- Linha 4 -->
+
+				<Button 
+					Grid.Row="5" 
+					Grid.Column="0"
+					x:Name="btnQuatro" 
+					BackgroundColor="#b3b3b3"
+					Text="4"/>
+				
+				<Button 
+					Grid.Row="5" 
+					Grid.Column="1"
+					x:Name="btnCinco" 
+					BackgroundColor="#b3b3b3"
+					Text="5"/>
+				
+				<Button 
+					Grid.Row="5" 
+					Grid.Column="2"
+					x:Name="btnSeis" 
+					BackgroundColor="#b3b3b3"
+					Text="6"/>
+				
+				<Button 
+					Grid.Row="5" 
+					Grid.Column="3"
+					x:Name="btnSubtracao" 
+					BackgroundColor="#b3b3b3"
+					Text="-"/>
+
+				<!-- Linha 5 -->
+
+				<Button 
+					Grid.Row="6" 
+					Grid.Column="0"
+					x:Name="btnUm" 
+					BackgroundColor="#b3b3b3"
+					Text="1"/>
+				
+				<Button 
+					Grid.Row="6" 
+					Grid.Column="1"
+					x:Name="btnDois"
+					BackgroundColor="#b3b3b3"
+					Text="2"/>
+				
+				<Button 
+					Grid.Row="6" 
+					Grid.Column="2"
+					x:Name="btnTres" 
+					BackgroundColor="#b3b3b3"
+					Text="3"/>
+				
+				<Button 
+					Grid.Row="6" 
+					Grid.Column="3"
+					x:Name="btnSoma" 
+					BackgroundColor="#b3b3b3"
+					Text="+"/>
+
+				<!-- Linha 6 -->
+
+				<Button
+					Grid.Row="7"
+					Grid.Column="0"
+					x:Name="btnTrocarSinais"
+					BackgroundColor="#b3b3b3"
+					Text="+/-"/>
+				
+				<Button 
+					Grid.Row="7" 
+					Grid.Column="1"
+					x:Name="btnZero" 
+					BackgroundColor="#b3b3b3"
+					Text="0"/>
+				
+				<Button 
+					Grid.Row="7" 
+					Grid.Column="2"
+					x:Name="btnVirgula" 
+					BackgroundColor="#b3b3b3"
+					Text=","/>
+				
+				<Button 
+					Grid.Row="7" 
+					Grid.Column="3"
+					x:Name="btnIgual"
+					BackgroundColor="#b3b3b3"
+					Text="="/>
+				
+			</Grid>
+			
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

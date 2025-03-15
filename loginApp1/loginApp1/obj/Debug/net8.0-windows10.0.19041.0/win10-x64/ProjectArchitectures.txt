@@ -1,0 +1,1 @@
+C:\Users\Dudis\source\repos\loginApp1\loginApp1\loginApp1.csproj;x64

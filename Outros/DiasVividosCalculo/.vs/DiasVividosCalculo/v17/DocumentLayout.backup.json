@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36FD5E1E-8B72-684E-9013-DF904C3A9373}|DiasVividosCalculo.csproj|c:\\users\\dudis\\source\\repos\\appmobile\\outros\\diasvividoscalculo\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{36FD5E1E-8B72-684E-9013-DF904C3A9373}|DiasVividosCalculo.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FD5E1E-8B72-684E-9013-DF904C3A9373}|DiasVividosCalculo.csproj|c:\\users\\dudis\\source\\repos\\appmobile\\outros\\diasvividoscalculo\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FD5E1E-8B72-684E-9013-DF904C3A9373}|DiasVividosCalculo.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FD5E1E-8B72-684E-9013-DF904C3A9373}|DiasVividosCalculo.csproj|c:\\users\\dudis\\source\\repos\\appmobile\\outros\\diasvividoscalculo\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{36FD5E1E-8B72-684E-9013-DF904C3A9373}|DiasVividosCalculo.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:59:08.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-15T15:59:05.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-15T15:58:42.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
