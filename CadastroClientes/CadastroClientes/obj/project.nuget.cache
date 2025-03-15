@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "usNQyVrpSRw=",
+  "dgSpecHash": "t8ShPMm+XCE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dudis\\source\\repos\\CadastroClientes\\CadastroClientes\\CadastroClientes.csproj",
+  "projectFilePath": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\CadastroClientes\\CadastroClientes\\CadastroClientes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dudis\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\Dudis\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",

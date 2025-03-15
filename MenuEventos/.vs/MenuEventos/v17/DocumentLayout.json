@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\MenuEventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65F23E94-E792-DEF1-9EBD-F2A6CFFB6010}|MenuEventos.csproj|c:\\users\\dudis\\source\\repos\\appmobile\\menueventos\\pages\\kmtomet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65F23E94-E792-DEF1-9EBD-F2A6CFFB6010}|MenuEventos.csproj|solutionrelative:pages\\kmtomet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F23E94-E792-DEF1-9EBD-F2A6CFFB6010}|MenuEventos.csproj|c:\\users\\dudis\\source\\repos\\appmobile\\menueventos\\pages\\kmtomet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F23E94-E792-DEF1-9EBD-F2A6CFFB6010}|MenuEventos.csproj|solutionrelative:pages\\kmtomet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F23E94-E792-DEF1-9EBD-F2A6CFFB6010}|MenuEventos.csproj|c:\\users\\dudis\\source\\repos\\appmobile\\menueventos\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65F23E94-E792-DEF1-9EBD-F2A6CFFB6010}|MenuEventos.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KmToMet.xaml",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\MenuEventos\\Pages\\KmToMet.xaml",
+              "RelativeDocumentMoniker": "Pages\\KmToMet.xaml",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\MenuEventos\\Pages\\KmToMet.xaml",
+              "RelativeToolTip": "Pages\\KmToMet.xaml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-15T21:42:11.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KmToMet.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\MenuEventos\\Pages\\KmToMet.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\KmToMet.xaml.cs",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\MenuEventos\\Pages\\KmToMet.xaml.cs",
+              "RelativeToolTip": "Pages\\KmToMet.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:42:08.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\MenuEventos\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\MenuEventos\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAHEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-15T21:41:49.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

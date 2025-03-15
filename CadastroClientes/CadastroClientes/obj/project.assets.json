@@ -33725,11 +33725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dudis\\source\\repos\\CadastroClientes\\CadastroClientes\\CadastroClientes.csproj",
+      "projectUniqueName": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\CadastroClientes\\CadastroClientes\\CadastroClientes.csproj",
       "projectName": "CadastroClientes",
-      "projectPath": "C:\\Users\\Dudis\\source\\repos\\CadastroClientes\\CadastroClientes\\CadastroClientes.csproj",
+      "projectPath": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\CadastroClientes\\CadastroClientes\\CadastroClientes.csproj",
       "packagesPath": "C:\\Users\\Dudis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dudis\\source\\repos\\CadastroClientes\\CadastroClientes\\obj\\",
+      "outputPath": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\CadastroClientes\\CadastroClientes\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

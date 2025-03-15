@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.chicoveterinario.cadastroclientes</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>06B4F943729572E26E23C1200ECEC31BB7214AE022506C80BC82AB3E43E967C6</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.chicoveterinario.cadastroclientes_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.chicoveterinario.cadastroclientes_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,272 +27,272 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-08T21:17:00.663</Modified>
+      <Modified>2025-03-15T21:56:22.260</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-03-08T17:40:53.029</Modified>
+      <Modified>2025-03-15T21:56:21.955</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CadastroClientes.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CadastroClientes.runtimeconfig.json">
       <PackagePath>CadastroClientes.runtimeconfig.json</PackagePath>
-      <Modified>2025-03-08T17:25:10.720</Modified>
+      <Modified>2025-03-15T21:56:21.731</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CadastroClientes.dll">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CadastroClientes.dll">
       <PackagePath>CadastroClientes.dll</PackagePath>
-      <Modified>2025-03-08T21:16:58.742</Modified>
+      <Modified>2025-03-15T21:56:20.380</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>CadastroClientes.exe</PackagePath>
-      <Modified>2025-03-08T21:16:58.774</Modified>
+      <Modified>2025-03-15T21:56:20.390</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2025-03-08T12:57:06.985</Modified>
+      <Modified>2025-03-15T17:52:14.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-03-08T12:58:15.620</Modified>
+      <Modified>2025-03-15T17:52:18.412</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-03-08T12:58:15.679</Modified>
+      <Modified>2025-03-15T17:52:18.413</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-03-08T12:58:15.738</Modified>
+      <Modified>2025-03-15T17:52:18.415</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-03-08T12:58:15.843</Modified>
+      <Modified>2025-03-15T17:52:18.416</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-03-08T12:58:16.251</Modified>
+      <Modified>2025-03-15T17:52:18.417</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2025-03-08T12:57:06.971</Modified>
+      <Modified>2025-03-15T17:52:18.352</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2025-03-08T12:57:06.974</Modified>
+      <Modified>2025-03-15T17:52:18.354</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.scale-100.png">
       <PackagePath>appicon.scale-100.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.837</Modified>
+      <Modified>2025-03-15T21:55:55.872</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.841</Modified>
+      <Modified>2025-03-15T21:55:55.871</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.841</Modified>
+      <Modified>2025-03-15T21:55:55.871</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.840</Modified>
+      <Modified>2025-03-15T21:55:55.870</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.840</Modified>
+      <Modified>2025-03-15T21:55:55.870</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.838</Modified>
+      <Modified>2025-03-15T21:55:55.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon.ico">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon.ico">
       <PackagePath>icon.ico</PackagePath>
-      <Modified>2025-03-08T13:32:25.871</Modified>
+      <Modified>2025-03-15T21:55:55.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLargeTile.scale-100.png">
       <PackagePath>iconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.844</Modified>
+      <Modified>2025-03-15T21:55:55.874</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLargeTile.scale-125.png">
       <PackagePath>iconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.843</Modified>
+      <Modified>2025-03-15T21:55:55.874</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLargeTile.scale-150.png">
       <PackagePath>iconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.843</Modified>
+      <Modified>2025-03-15T21:55:55.873</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLargeTile.scale-200.png">
       <PackagePath>iconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.842</Modified>
+      <Modified>2025-03-15T21:55:55.873</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLargeTile.scale-400.png">
       <PackagePath>iconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.842</Modified>
+      <Modified>2025-03-15T21:55:55.872</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>iconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.863</Modified>
+      <Modified>2025-03-15T21:55:55.884</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>iconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.862</Modified>
+      <Modified>2025-03-15T21:55:55.884</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>iconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.861</Modified>
+      <Modified>2025-03-15T21:55:55.883</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>iconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.862</Modified>
+      <Modified>2025-03-15T21:55:55.883</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>iconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.861</Modified>
+      <Modified>2025-03-15T21:55:55.883</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>iconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.866</Modified>
+      <Modified>2025-03-15T21:55:55.887</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>iconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.865</Modified>
+      <Modified>2025-03-15T21:55:55.886</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>iconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.864</Modified>
+      <Modified>2025-03-15T21:55:55.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>iconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.865</Modified>
+      <Modified>2025-03-15T21:55:55.886</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>iconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.864</Modified>
+      <Modified>2025-03-15T21:55:55.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.scale-100.png">
       <PackagePath>iconLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.870</Modified>
+      <Modified>2025-03-15T21:55:55.891</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.scale-125.png">
       <PackagePath>iconLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.870</Modified>
+      <Modified>2025-03-15T21:55:55.891</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.scale-150.png">
       <PackagePath>iconLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.869</Modified>
+      <Modified>2025-03-15T21:55:55.890</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.scale-200.png">
       <PackagePath>iconLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.869</Modified>
+      <Modified>2025-03-15T21:55:55.890</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.scale-400.png">
       <PackagePath>iconLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.868</Modified>
+      <Modified>2025-03-15T21:55:55.890</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.targetsize-16.png">
       <PackagePath>iconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.868</Modified>
+      <Modified>2025-03-15T21:55:55.889</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.targetsize-24.png">
       <PackagePath>iconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.867</Modified>
+      <Modified>2025-03-15T21:55:55.889</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.targetsize-256.png">
       <PackagePath>iconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.866</Modified>
+      <Modified>2025-03-15T21:55:55.887</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.targetsize-32.png">
       <PackagePath>iconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.867</Modified>
+      <Modified>2025-03-15T21:55:55.888</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconLogo.targetsize-48.png">
       <PackagePath>iconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.866</Modified>
+      <Modified>2025-03-15T21:55:55.887</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconMediumTile.scale-100.png">
       <PackagePath>iconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.851</Modified>
+      <Modified>2025-03-15T21:55:55.878</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconMediumTile.scale-125.png">
       <PackagePath>iconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.851</Modified>
+      <Modified>2025-03-15T21:55:55.878</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconMediumTile.scale-150.png">
       <PackagePath>iconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.851</Modified>
+      <Modified>2025-03-15T21:55:55.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconMediumTile.scale-200.png">
       <PackagePath>iconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.850</Modified>
+      <Modified>2025-03-15T21:55:55.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconMediumTile.scale-400.png">
       <PackagePath>iconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.849</Modified>
+      <Modified>2025-03-15T21:55:55.876</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconSmallTile.scale-100.png">
       <PackagePath>iconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.855</Modified>
+      <Modified>2025-03-15T21:55:55.880</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconSmallTile.scale-125.png">
       <PackagePath>iconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.854</Modified>
+      <Modified>2025-03-15T21:55:55.880</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconSmallTile.scale-150.png">
       <PackagePath>iconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.853</Modified>
+      <Modified>2025-03-15T21:55:55.880</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconSmallTile.scale-200.png">
       <PackagePath>iconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.853</Modified>
+      <Modified>2025-03-15T21:55:55.879</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconSmallTile.scale-400.png">
       <PackagePath>iconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.852</Modified>
+      <Modified>2025-03-15T21:55:55.879</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconStoreLogo.scale-100.png">
       <PackagePath>iconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.860</Modified>
+      <Modified>2025-03-15T21:55:55.882</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconStoreLogo.scale-125.png">
       <PackagePath>iconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.857</Modified>
+      <Modified>2025-03-15T21:55:55.882</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconStoreLogo.scale-150.png">
       <PackagePath>iconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.857</Modified>
+      <Modified>2025-03-15T21:55:55.881</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconStoreLogo.scale-200.png">
       <PackagePath>iconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.856</Modified>
+      <Modified>2025-03-15T21:55:55.881</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconStoreLogo.scale-400.png">
       <PackagePath>iconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.855</Modified>
+      <Modified>2025-03-15T21:55:55.881</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconWideTile.scale-100.png">
       <PackagePath>iconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.849</Modified>
+      <Modified>2025-03-15T21:55:55.876</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconWideTile.scale-125.png">
       <PackagePath>iconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.847</Modified>
+      <Modified>2025-03-15T21:55:55.876</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconWideTile.scale-150.png">
       <PackagePath>iconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.845</Modified>
+      <Modified>2025-03-15T21:55:55.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconWideTile.scale-200.png">
       <PackagePath>iconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.844</Modified>
+      <Modified>2025-03-15T21:55:55.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconWideTile.scale-400.png">
       <PackagePath>iconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-03-08T13:32:25.844</Modified>
+      <Modified>2025-03-15T21:55:55.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CadastroClientes.deps.json">
+    <AppxPackagedFile Include="C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CadastroClientes.deps.json">
       <PackagePath>CadastroClientes.deps.json</PackagePath>
-      <Modified>2025-03-08T17:40:52.918</Modified>
+      <Modified>2025-03-15T21:56:21.577</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dudis\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

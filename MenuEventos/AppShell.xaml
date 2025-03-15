@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MenuEventos.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MenuEventos"
+    Shell.FlyoutBehavior="Flyout"
+    Shell.TabBarIsVisible="True"
+    Title="Menu Eventos"
+    FlyoutBackgroundColor="#5798f2"
+    Shell.TabBarTitleColor="#5798f2"
+    Shell.TabBarForegroundColor="#5798f2">
+
+    <Shell.ItemTemplate>
+
+        <DataTemplate>
+
+            <Grid
+                ColumnDefinitions="50, *"
+                Padding="10">
+
+                <Image
+                    Source="{Binding Icon}"
+                    WidthRequest="20"/>
+
+                <Label
+                    Grid.Column="1"
+                    Text="{Binding Title}"
+                    TextColor="White"/>
+
+            </Grid>
+
+        </DataTemplate>
+
+    </Shell.ItemTemplate>
+
+    <Shell.FlyoutHeader>
+        <VerticalStackLayout>
+
+            <Image 
+			   Source="helper.png"
+               WidthRequest="65"
+               HeightRequest="150"/>
+
+            <Label 
+				Text="Tabela de Conversões"
+                HorizontalTextAlignment="Center"
+                FontSize="15"
+                TranslationY="-35"
+                TextColor="White"/>
+
+        </VerticalStackLayout>
+    </Shell.FlyoutHeader>
+
+    <Shell.FlyoutFooter>
+
+        <Label
+			Text="© Luis Eduardo Boaretto Rigoni - 2404089"
+            HorizontalTextAlignment="Center"
+            TextColor="White"
+            Margin="0, 0, 0, 40"/>
+
+    </Shell.FlyoutFooter>
+
+    <FlyoutItem 
+		   Title="MENU"
+           FlyoutDisplayOptions="AsMultipleItems">
+
+            <ShellContent 
+			        Title="Home"
+                    ContentTemplate="{DataTemplate local:MainPage}"
+                    Route="MainPage"
+                    Icon="home.png"/>
+
+            <ShellContent 
+			        Title="Quilometros ⭢ Metros"
+                    ContentTemplate="{DataTemplate local:Pages.KmToMet}"
+                    Route="KmToMet"
+                    Icon="km.png"/>
+
+            <ShellContent 
+			        Title="Metros ⭢ Centímetros"
+                    ContentTemplate="{DataTemplate local:Pages.MetToCent}"
+                    Route="MetToCent"
+                    Icon="cm.png"/>
+
+            <ShellContent 
+			        Title="Hectares ⭢ Metros"
+                    ContentTemplate="{DataTemplate local:Pages.HecToMet}"
+                    Route="HecToMet"
+                    Icon="hect.png"/>
+
+            <ShellContent 
+		            Title="Fahrenreit ⭢ Celcius"
+                    ContentTemplate="{DataTemplate local:Pages.GfToGc}"
+                    Route="GfToGc"
+                    Icon="calor.png"/>
+
+            <ShellContent 
+		            Title="Kelvin ⭢ Celcius"
+                    ContentTemplate="{DataTemplate local:Pages.GkToGc}"
+                    Route="GkToGc"
+                    Icon="frio.png"/>
+
+            <ShellContent 
+		            Title="Kelvin ⭢ Fahrenreit"
+                    ContentTemplate="{DataTemplate local:Pages.GkToGf}"
+                    Route="GkToGf"
+                    Icon="extremo.png"/>
+
+    </FlyoutItem>
+
+    <!-- Subdivisão do menu -->
+    
+    <ShellContent 
+        Title="Sobre"
+        ContentTemplate="{DataTemplate local:Pages.About}"
+        Route="About"
+        Icon="about.png"/>
+
+</Shell>

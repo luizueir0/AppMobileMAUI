@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Outros\\DiasVividosCalculo\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\MainPage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Outros\\DiasVividosCalculo\\MainPage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dudis\\source\\repos\\AppMobile\\Lista1\\CadastroAlunos\\AppShell.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lista1\\CadastroAlunos\\AppShell.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\CalculoMedias\\AppShell.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Outros\\CalculoMedias\\AppShell.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\AppShell.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Outros\\DiasVividosCalculo\\AppShell.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Outros\\DiasVividosCalculo\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\MainPage.xaml.cs",
+              "RelativeToolTip": "Outros\\DiasVividosCalculo\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:28:12.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Outros\\DiasVividosCalculo\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\MainPage.xaml",
+              "RelativeToolTip": "Outros\\DiasVividosCalculo\\MainPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-15T20:12:39.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Lista1\\CadastroAlunos\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Lista1\\CadastroAlunos\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Lista1\\CadastroAlunos\\AppShell.xaml",
+              "RelativeToolTip": "Lista1\\CadastroAlunos\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-15T18:43:04.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Outros\\DiasVividosCalculo\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\DiasVividosCalculo\\AppShell.xaml",
+              "RelativeToolTip": "Outros\\DiasVividosCalculo\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-15T18:04:27.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\CalculoMedias\\AppShell.xaml",
               "RelativeDocumentMoniker": "Outros\\CalculoMedias\\AppShell.xaml",
               "ToolTip": "C:\\Users\\Dudis\\source\\repos\\AppMobile\\Outros\\CalculoMedias\\AppShell.xaml",
               "RelativeToolTip": "Outros\\CalculoMedias\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-15T15:39:06.092Z",
               "EditorCaption": ""

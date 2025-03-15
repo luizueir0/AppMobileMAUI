@@ -1,1 +1,1 @@
-C:\Users\Dudis\source\repos\CadastroClientes\CadastroClientes\CadastroClientes.csproj;x64
+C:\Users\Dudis\source\repos\AppMobile\CadastroClientes\CadastroClientes\CadastroClientes.csproj;x64

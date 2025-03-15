@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MenuEventos.Pages.GkToGf"
+             Title="GkToGf">
+
+    <ScrollView>
+        <VerticalStackLayout
+           WidthRequest="450">
+
+            <Label
+               x:Name="lblTitle"
+               Text="Kelvin ⭢ Fahrenreit"
+               HorizontalTextAlignment="Center"
+               FontAttributes="Bold"
+               FontSize="30"
+               TextColor="#5798f2"
+               Margin="0, 90, 0, 0"/>
+
+
+            <Grid
+               Padding="10"
+               RowSpacing="10"
+               ColumnSpacing="10"
+               Margin="0, 40, 0, 0">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Label
+               Grid.Row="0"
+               Grid.Column="0"
+               x:Name="lblQuestion"
+               Text="Valor em Kº"
+               Margin="0, 40, 0, 0"/>
+
+                <Entry
+               Grid.Row="1"
+               Grid.Column="0"
+               x:Name="etrInsert"
+               Keyboard="Numeric"/>
+
+                <Label
+               Grid.Row="0"
+               Grid.Column="2"
+               x:Name="lblAnswer"
+               Text="Resultado em Fº"
+               Margin="0, 40, 0, 0"/>
+
+                <Entry
+               Grid.Row="1"
+               Grid.Column="2"
+               x:Name="etrAnswer"
+               IsEnabled="False"
+               Keyboard="Numeric"/>
+
+            </Grid>
+
+            <Grid
+               RowDefinitions="Auto,Auto"
+               ColumnDefinitions="Auto,*"
+               WidthRequest="350">
+
+                <Button 
+                   Grid.Column="0"
+                   x:Name="btnSubmit"
+                   Text="Calcular"
+                   WidthRequest="200"
+                   BackgroundColor="#5798f2"
+                   TranslationX="-40"
+                   Clicked="btnSubmitOnClicked"/>
+
+                <Button 
+                   Grid.Column="1"
+                   x:Name="btnClean"
+                   Text="Limpar"
+                   WidthRequest="125"
+                   BackgroundColor="#355b8f"
+                   TranslationX="50"
+                   Clicked="btnCleanOnClicked"/>
+
+            </Grid>
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+    
+</ContentPage>

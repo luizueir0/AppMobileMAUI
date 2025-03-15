@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CadastroClientes",
+    "\\CadastroClientes\\CadastroClientes",
+    "\\Outros",
+    "\\Outros\\DiasVividosCalculo"
   ],
+  "SelectedNode": "\\Outros\\DiasVividosCalculo\\MainPage.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
